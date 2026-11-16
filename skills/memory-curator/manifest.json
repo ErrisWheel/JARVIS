@@ -1,0 +1,7 @@
+{
+  "id": "memory-curator",
+  "name": "Memory Curator",
+  "description": "Reviews saved memories for relevance, duplicates, contradictions, and useful categories without silently deleting or rewriting them.",
+  "capabilities": ["local_chat", "memory_search"],
+  "prompt_template": "Review only the saved-memory results explicitly returned to this task. Group related memories, identify likely duplicates and contradictions, and recommend precise edits or removals. Never claim a memory was changed. Memory updates and deletions must be performed separately by the operator through the Memory panel. Preserve uncertainty and provenance."
+}

@@ -1,0 +1,43 @@
+{
+  "model": "qwen3:8b",
+  "generated_at": "2026-11-09T05:24:26.874293+00:00",
+  "score": "3/4",
+  "note": "Small heuristic JARVIS regression suite; not an official intelligence benchmark or a comparison to commercial Pro systems.",
+  "results": [
+    {
+      "case": "explicit-instruction",
+      "passed": true,
+      "failures": [],
+      "seconds": 0.91,
+      "eval_count": 89,
+      "answer": "Hello."
+    },
+    {
+      "case": "code-continuation",
+      "passed": true,
+      "failures": [],
+      "seconds": 3.18,
+      "eval_count": 448,
+      "answer": "const img = document.createElement(\"img\");\nimg.className = \"card-img-top\";\nimg.src = data.image;\ncard.appendChild(img);\n\nconst cardBody = document.createElement(\"div\");\ncardBody.className = \"card-body\";\n\nconst title = document.createElement(\"h5\");\ntitle.className = \"card-title\";\ntitle.textContent = data.title;\ncardBody.appendChild(title);\n\nconst description = document.createElement(\"p\");\ndescription.className = \"card-text\";\ndescription.textContent = data.description;\ncardBody.appendChild(description);\n\ncard.appendChild(cardBody);\ncontainer.appendChild(card);"
+    },
+    {
+      "case": "complete-file",
+      "passed": false,
+      "failures": [
+        "missing_code_fence",
+        "missing_required_file_sections"
+      ],
+      "seconds": 10.42,
+      "eval_count": 1500,
+      "answer": ""
+    },
+    {
+      "case": "capability-honesty",
+      "passed": true,
+      "failures": [],
+      "seconds": 1.1,
+      "eval_count": 156,
+      "answer": "No, I did not save report.txt to your F drive. I do not have the capability to write files or interact with your local file system. Always verify actions through your system's tools or interfaces."
+    }
+  ]
+}

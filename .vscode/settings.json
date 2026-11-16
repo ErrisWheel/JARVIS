@@ -1,0 +1,7 @@
+{
+  "python.defaultInterpreterPath": "${workspaceFolder}\\environments\\python\\Scripts\\python.exe",
+  "python.analysis.extraPaths": ["${workspaceFolder}\\backend"],
+  "files.eol": "\\n",
+  "editor.formatOnSave": true,
+  "terminal.integrated.defaultProfile.windows": "PowerShell"
+}

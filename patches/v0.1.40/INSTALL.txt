@@ -1,0 +1,50 @@
+# J.A.R.V.I.S. v0.1.40 — Installation
+
+## Before installing
+
+1. Stop both running JARVIS PowerShell windows with `Ctrl+C`.
+2. Keep your current database and `F:\JARVIS\data` in place. This patch does not replace them.
+3. Extract this ZIP anywhere under `F:\JARVIS\patches\v0.1.40` (recommended).
+4. Run the installer from Windows PowerShell 5.1. It accepts existing versions 0.1.29 through 0.1.32, and 0.1.40 for repair/re-application.
+
+```powershell
+Set-ExecutionPolicy -Scope Process -ExecutionPolicy Bypass -Force
+& 'F:\JARVIS\patches\v0.1.40\Apply-JARVIS-v0.1.40.ps1'
+```
+
+The installer verifies every payload SHA-256 before copying, rejects destination junctions/symlinks, backs up every file it replaces under `F:\JARVIS\backups`, verifies installed hashes and both release versions, and attempts automatic rollback if verification fails. It does not run npm/pip, pull Ollama models, access the internet, replace databases, or modify model files.
+
+## Verify
+
+PowerShell 5.1, working directory `F:\JARVIS\frontend`:
+
+```powershell
+npm run build
+npm run test:image-intent
+```
+
+Then from `F:\JARVIS`:
+
+```powershell
+.\scripts\Start-JARVIS.ps1
+```
+
+## Optional semantic memory
+
+Semantic embeddings require a compatible embedding model already installed in local Ollama. Nothing is downloaded automatically. Run from `F:\JARVIS`:
+
+```powershell
+.\scripts\Configure-Semantic-Memory.ps1
+```
+
+If no installed embedding model is available, the script exits without changes. JARVIS continues to use its SQLite FTS5/BM25 lexical retrieval fallback. Do not select a chat model as an embedding model merely because it appears in `ollama list`.
+
+## Notes
+
+- The app remains loopback-only and local-first.
+- External network and arbitrary shell execution remain unavailable.
+- Task plans require the displayed exact approval phrase; interrupted tasks do not auto-resume.
+- Local skills are declarative manifests, not executable plug-ins.
+- Backup snapshots cover the SQLite database, not model weights, imported source documents, or the full project directory.
+- Browser-supported echo cancellation/noise suppression and existing speech interruption are retained. A separate native acoustic echo-cancellation DSP engine is not included.
+- The full Vite build and Windows/GPU/audio smoke tests must be run on the operator's PC because this source-only build environment has no project `node_modules` or RTX hardware.

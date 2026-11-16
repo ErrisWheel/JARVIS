@@ -1,0 +1,72 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1536" height="2048" viewBox="0 0 1536 2048" role="img" aria-labelledby="poster-title poster-desc">
+<title id="poster-title">The Periodic Table: A Landscape of Elements</title>
+<desc id="poster-desc">cards educational infographic. Editable vector text and decorative scientific illustrations.</desc>
+<rect width="1536" height="2048" fill="#07111f"/>
+<g font-family="Inter, Segoe UI, Arial, sans-serif">
+<circle cx="1486" cy="1238" r="8" fill="none" stroke="#5bdde8" stroke-width="2"/>
+<path d="M1473 1251l18 18" stroke="#2a596e" stroke-width="2"/>
+<circle cx="53" cy="930" r="12" fill="none" stroke="#ffb162" stroke-width="2"/>
+<path d="M36 947l22 22" stroke="#2a596e" stroke-width="2"/>
+<circle cx="55" cy="1110" r="11" fill="none" stroke="#2a596e" stroke-width="2"/>
+<path d="M39 1126l21 21" stroke="#2a596e" stroke-width="2"/>
+<circle cx="94" cy="655" r="8" fill="none" stroke="#9670b8" stroke-width="2"/>
+<path d="M81 668l18 18" stroke="#2a596e" stroke-width="2"/>
+<text x="72" y="48" font-size="16" font-weight="700" letter-spacing="2" fill="#5bdde8">J.A.R.V.I.S. / EDUCATIONAL VISUAL SERIES</text>
+<text x="72" y="112" font-size="52" font-weight="800" fill="#eff7fa">The Periodic Table: A Landscape of</text>
+<text x="72" y="172" font-size="52" font-weight="800" fill="#eff7fa">Elements</text>
+<text x="74" y="232" font-size="21" fill="#b3cad6">Discovering the Building Blocks of Matter</text>
+<text x="74" y="260" font-size="14" fill="#7091a3">Explore the history and significance of chemical elements, from ancient discoveries to modern syntheses. This landscape view highlights how humanity</text>
+<text x="74" y="278" font-size="14" fill="#7091a3">unlocked the secrets of matter.</text>
+<rect x="72" y="320" width="684" height="508" rx="12" fill="#0d2234" stroke="#264c60" stroke-width="2"/>
+<text x="92" y="354" font-size="13" font-weight="700" fill="#5bdde8">1766</text><text x="92" y="375" font-size="10" fill="#7091a3">Hydrogen / ATOMIC NO. </text><text x="92" y="401" font-size="21" font-weight="750" fill="#eff7fa">The First Element</text>
+<ellipse cx="682" cy="412" rx="43" ry="19" fill="none" stroke="#5bdde8" stroke-width="3"/><ellipse cx="682" cy="412" rx="20" ry="43" fill="none" stroke="#b891e8" stroke-width="3" transform="rotate(35 682 412)"/><circle cx="682" cy="412" r="10" fill="#ffb162"/><circle cx="722" cy="402" r="5" fill="#dceff5"/>
+<text x="92" y="425" font-size="11" font-weight="650" fill="#5bdde8">Henry Cavendish · England · Royal Society</text>
+<text x="92" y="459" font-size="11" fill="#b3cad6">Isolated by electrolysis of water and recognized as a distinct gas. Cavendish</text>
+<text x="92" y="474" font-size="11" fill="#b3cad6">identified hydrogen as a flammable gas released during the decomposition of</text>
+<text x="92" y="489" font-size="11" fill="#b3cad6">water, naming it &#x27;hydrogen&#x27; for water-former.</text>
+<text x="92" y="810" font-size="10" font-weight="700" fill="#ffb162">It is the lightest and most abundant element in the universe, fueling stars</text>
+<rect x="780" y="320" width="684" height="508" rx="12" fill="#0d2234" stroke="#264c60" stroke-width="2"/>
+<text x="800" y="354" font-size="13" font-weight="700" fill="#5bdde8">1774</text><text x="800" y="375" font-size="10" fill="#7091a3">Oxygen / ATOMIC NO. </text><text x="800" y="401" font-size="21" font-weight="750" fill="#eff7fa">Breath of Life</text>
+<g stroke="#ffb162" stroke-width="5"><path d="M1356 434L1390 384L1426 434" fill="none"/></g><g fill="#dceff5" stroke="#ffb162" stroke-width="3"><circle cx="1356" cy="434" r="10"/><circle cx="1390" cy="384" r="12"/><circle cx="1426" cy="434" r="10"/></g>
+<text x="800" y="425" font-size="11" font-weight="650" fill="#ffb162">Joseph Priestley · England · Woolsthorpe Manor</text>
+<text x="800" y="459" font-size="11" fill="#b3cad6">Heated mercuric oxide in a glass jar to release a gas that supported combustion.</text>
+<text x="800" y="474" font-size="11" fill="#b3cad6">Priestley discovered oxygen by heating red mercury(II) oxide, observing the</text>
+<text x="800" y="489" font-size="11" fill="#b3cad6">resulting gas reignited a candle instantly.</text>
+<text x="800" y="810" font-size="10" font-weight="700" fill="#ffb162">Essential for respiration and combustion, it makes up nearly 21% of Earth&#x27;s</text>
+<rect x="72" y="846" width="684" height="508" rx="12" fill="#0d2234" stroke="#264c60" stroke-width="2"/>
+<text x="92" y="880" font-size="13" font-weight="700" fill="#5bdde8">Ancient</text><text x="92" y="901" font-size="10" fill="#7091a3">Carbon / ATOMIC NO. </text><text x="92" y="927" font-size="21" font-weight="750" fill="#eff7fa">The Backbone of Life</text>
+<g fill="#3d2e69" stroke="#b891e8" stroke-width="3"><path d="M640 973l8-58 18-25 8 83z"/><path d="M672 973l11-68 20-23 5 91z"/><path d="M700 973l12-42 14-10 5 52z"/></g><path d="M648 915l12 57m16-54 10 54" stroke="#d9c4ff" stroke-width="2"/>
+<text x="92" y="951" font-size="11" font-weight="650" fill="#5bdde8">Known since antiquity · Global · N/A</text>
+<text x="92" y="985" font-size="11" fill="#b3cad6">Recognized through charcoal, graphite, and diamond forms used by early humans.</text>
+<text x="92" y="1000" font-size="11" fill="#b3cad6">Humans utilized carbon in its various allotropes like charcoal for fire and</text>
+<text x="92" y="1015" font-size="11" fill="#b3cad6">graphite for writing millennia ago.</text>
+<text x="92" y="1336" font-size="10" font-weight="700" fill="#ffb162">Forms the basis of organic chemistry and all known life on Earth due to its</text>
+<rect x="780" y="846" width="684" height="508" rx="12" fill="#0d2234" stroke="#264c60" stroke-width="2"/>
+<text x="800" y="880" font-size="13" font-weight="700" fill="#5bdde8">~6000 BCE</text><text x="800" y="901" font-size="10" fill="#7091a3">Gold / ATOMIC NO. </text><text x="800" y="927" font-size="21" font-weight="750" fill="#eff7fa">The Noble Metal</text>
+<ellipse cx="1390" cy="938" rx="43" ry="18" fill="none" stroke="#ffb162" stroke-width="3"/><ellipse cx="1390" cy="938" rx="18" ry="43" fill="none" stroke="#dceff5" stroke-width="3" transform="rotate(35 1390 938)"/><circle cx="1390" cy="938" r="9" fill="#ffb162"/>
+<text x="800" y="951" font-size="11" font-weight="650" fill="#ffb162">Unknown (Ancient Civilizations) · Global Rivers · N/A</text>
+<text x="800" y="985" font-size="11" fill="#b3cad6">Found naturally in native metallic form within riverbeds and alluvial deposits.</text>
+<text x="800" y="1000" font-size="11" fill="#b3cad6">Early civilizations panned for gold from rivers, valuing its resistance to</text>
+<text x="800" y="1015" font-size="11" fill="#b3cad6">corrosion and malleability.</text>
+<text x="800" y="1336" font-size="10" font-weight="700" fill="#ffb162">Used historically as currency and jewelry; now vital in electronics due to high</text>
+<rect x="72" y="1372" width="684" height="508" rx="12" fill="#0d2234" stroke="#264c60" stroke-width="2"/>
+<text x="92" y="1406" font-size="13" font-weight="700" fill="#5bdde8">1789</text><text x="92" y="1427" font-size="10" fill="#7091a3">Uranium / ATOMIC NO. </text><text x="92" y="1453" font-size="21" font-weight="750" fill="#eff7fa">The Atomic Fuel</text>
+<ellipse cx="682" cy="1464" rx="48" ry="34" fill="none" stroke="#5bdde8" stroke-width="4"/><ellipse cx="682" cy="1464" rx="31" ry="21" fill="none" stroke="#3d6f89" stroke-width="3"/><path d="M633 1442a48 34 0 0 1 78 0" fill="none" stroke="#ffb162" stroke-width="5"/><circle cx="716" cy="1448" r="6" fill="#ffb162"/><circle cx="682" cy="1464" r="6" fill="#5bdde8"/>
+<text x="92" y="1477" font-size="11" font-weight="650" fill="#5bdde8">Martin Heinrich Klaproth · Germany · Berlin University</text>
+<text x="92" y="1511" font-size="11" fill="#b3cad6">Identified in pitchblende ore by analyzing its chemical properties and radiation</text>
+<text x="92" y="1526" font-size="11" fill="#b3cad6">effects later. Klaproth discovered uranium as a new element within pitchblende,</text>
+<text x="92" y="1541" font-size="11" fill="#b3cad6">initially misidentifying it as tungstic acid.</text>
+<text x="92" y="1862" font-size="10" font-weight="700" fill="#ffb162">Its fissionable isotope powers nuclear reactors and weapons, defining the modern</text>
+<rect x="780" y="1372" width="684" height="508" rx="12" fill="#0d2234" stroke="#264c60" stroke-width="2"/>
+<text x="800" y="1406" font-size="13" font-weight="700" fill="#5bdde8">1868</text><text x="800" y="1427" font-size="10" fill="#7091a3">Helium / ATOMIC NO. </text><text x="800" y="1453" font-size="21" font-weight="750" fill="#eff7fa">The Cosmic Gas</text>
+<circle cx="1380" cy="1460" r="35" fill="#ffbc53" stroke="#ffb162" stroke-width="3"/><line x1="1410" y1="1442" x2="1455" y2="1442" stroke="#64aeff" stroke-width="4"/><line x1="1410" y1="1453" x2="1455" y2="1453" stroke="#b891e8" stroke-width="4"/><line x1="1410" y1="1464" x2="1455" y2="1464" stroke="#5bdde8" stroke-width="4"/><line x1="1410" y1="1475" x2="1455" y2="1475" stroke="#81dba8" stroke-width="4"/><line x1="1410" y1="1486" x2="1455" y2="1486" stroke="#ffd263" stroke-width="4"/>
+<text x="800" y="1477" font-size="11" font-weight="650" fill="#ffb162">Pierre Janssen &amp; Norman Lockyer · Sun (Spectroscopy) · Observatoire de</text>
+<text x="800" y="1491" font-size="11" font-weight="650" fill="#ffb162">Paris / Royal Society</text>
+<text x="800" y="1511" font-size="11" fill="#b3cad6">Detected via a unique yellow spectral line in solar prominences before being</text>
+<text x="800" y="1526" font-size="11" fill="#b3cad6">found on Earth. Astronomers observed helium&#x27;s spectral signature in the sun</text>
+<text x="800" y="1541" font-size="11" fill="#b3cad6">during a solar eclipse, naming it after Helios.</text>
+<text x="800" y="1862" font-size="10" font-weight="700" fill="#ffb162">Used for cryogenics and lifting gas; it is the second most abundant element in</text>
+<path d="M72 1880H1464" stroke="#2a596e" stroke-width="2"/>
+<text x="72" y="1900" font-size="11" fill="#b3cad6">Designed for educational use. Visual motifs represent the nature of each element or its discovery method.</text>
+<text x="72" y="1922" font-size="10" fill="#7091a3">References: verify with primary institutional sources such as the Royal Society, IUPAC, and historical scientific journals.</text>
+</g></svg>

@@ -1,0 +1,119 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1536" height="2048" viewBox="0 0 1536 2048" role="img" aria-labelledby="poster-title poster-desc">
+<title id="poster-title">ELEMENT DISCOVERY &amp; PERIODIC-TABLE ORGANIZATION</title>
+<desc id="poster-desc">Locally rendered orbit educational infographic with editable vector text and illustrations.</desc>
+<rect width="1536" height="2048" fill="#f5f1e6"/>
+<g font-family="Inter, Segoe UI, Arial, sans-serif">
+<text x="72" y="48" font-size="18" font-weight="700" letter-spacing="2" fill="#1f7784">J.A.R.V.I.S. / EDUCATIONAL VISUAL SERIES</text>
+<text x="72" y="112" font-size="54" font-weight="800" fill="#1f313d">ELEMENT DISCOVERY &amp; PERIODIC-TABLE</text>
+<text x="72" y="174" font-size="54" font-weight="800" fill="#1f313d">ORGANIZATION</text>
+<text x="74" y="170" font-size="22" fill="#43535b">10 selected elements · from 1774 to 2009–2010</text>
+<text x="74" y="204" font-size="14" fill="#677376">Element discovery transformed chemistry: from identifying substances in minerals and gases to detecting atoms made in laboratories.</text>
+<rect x="72" y="260" width="183" height="28" rx="8" fill="#fdfaF2" stroke="#57b8c7"/><text x="82" y="279" font-size="12" font-weight="700" fill="#57b8c7">GROUP 17 · HALOGENS · 6</text>
+<rect x="265" y="260" width="190" height="28" rx="8" fill="#fdfaF2" stroke="#bb7a31"/><text x="275" y="279" font-size="12" font-weight="700" fill="#bb7a31">GROUP 18 · NOBLE GAS · 1</text>
+<rect x="465" y="260" width="197" height="28" rx="8" fill="#fdfaF2" stroke="#428b5d"/><text x="475" y="279" font-size="12" font-weight="700" fill="#428b5d">LANTHANOIDS · f-BLOCK · 1</text>
+<rect x="672" y="260" width="183" height="28" rx="8" fill="#fdfaF2" stroke="#825da4"/><text x="682" y="279" font-size="12" font-weight="700" fill="#825da4">ACTINOIDS · f-BLOCK · 2</text>
+<path d="M768 370V1747" stroke="#b3a48c" stroke-width="5"/>
+<path d="M738 388H768" stroke="#57b8c7" stroke-width="3"/><circle cx="768" cy="388" r="10" fill="#f5f1e6" stroke="#57b8c7" stroke-width="4"/>
+<rect x="54" y="318" width="684" height="140" rx="16" fill="#fdfaF2" stroke="#57b8c7" stroke-width="2"/>
+<path d="M111 372h26m-7 0v34l25 38v8h-62v-8l25-38v-34" fill="#16394a" stroke="#57b8c7" stroke-width="4"/><path d="M97 429h54l14 25h-82z" fill="#397e69" opacity=".9"/><g fill="none" stroke="#dceff5" stroke-width="3"><circle cx="100" cy="366" r="5"/><circle cx="128" cy="355" r="4"/><circle cx="148" cy="367" r="6"/></g>
+<text x="124" y="450" text-anchor="middle" font-size="10" fill="#677376">NO. 17</text>
+<rect x="202" y="326" width="190" height="23" rx="8" fill="#ebe2d1" stroke="#57b8c7"/><text x="210" y="342" font-size="12" font-weight="700" fill="#57b8c7">1774 · first production</text>
+<text x="202" y="367" font-size="20" font-weight="750" fill="#1f313d">Chlorine · Cl</text>
+<text x="202" y="383" font-size="9" font-weight="700" fill="#57b8c7">HALOGEN · GROUP 17 · PERIOD 3</text>
+<text x="202" y="400" font-size="10" font-weight="650" fill="#57b8c7">Carl Wilhelm Scheele · Uppsala, Sweden · Scheele’s laboratory and</text>
+<text x="202" y="417" font-size="10" fill="#43535b">Scheele produced greenish-yellow chlorine by heating hydrochloric</text>
+<text x="202" y="430" font-size="10" fill="#43535b">acid with pyrolusite. Humphry Davy later proved it was an element</text>
+<path d="M798 537H768" stroke="#57b8c7" stroke-width="3"/><circle cx="768" cy="537" r="10" fill="#f5f1e6" stroke="#57b8c7" stroke-width="4"/>
+<rect x="798" y="467" width="684" height="140" rx="16" fill="#fdfaF2" stroke="#57b8c7" stroke-width="2"/>
+<g fill="#3d2e69" stroke="#b891e8" stroke-width="3"><path d="M826 590l8-58 18-25 8 83z"/><path d="M858 590l11-68 20-23 5 91z"/><path d="M886 590l12-42 14-10 5 52z"/></g><path d="M834 532l12 57m16-54 10 54" stroke="#d9c4ff" stroke-width="2"/>
+<text x="868" y="599" text-anchor="middle" font-size="10" fill="#677376">NO. 53</text>
+<rect x="946" y="475" width="190" height="23" rx="8" fill="#ebe2d1" stroke="#57b8c7"/><text x="954" y="491" font-size="12" font-weight="700" fill="#57b8c7">1811 · first observed</text>
+<text x="946" y="516" font-size="20" font-weight="750" fill="#1f313d">Iodine · I</text>
+<text x="946" y="532" font-size="9" font-weight="700" fill="#57b8c7">HALOGEN · GROUP 17 · PERIOD 5</text>
+<text x="946" y="549" font-size="10" font-weight="650" fill="#57b8c7">Bernard Courtois · Paris, France · Courtois’s saltpetre works and</text>
+<text x="946" y="566" font-size="10" fill="#43535b">Courtois saw violet vapour while processing seaweed ash. Gay-Lussac</text>
+<text x="946" y="579" font-size="10" fill="#43535b">later named the element after its violet colour.</text>
+<path d="M738 686H768" stroke="#57b8c7" stroke-width="3"/><circle cx="768" cy="686" r="10" fill="#f5f1e6" stroke="#57b8c7" stroke-width="4"/>
+<rect x="54" y="616" width="684" height="140" rx="16" fill="#fdfaF2" stroke="#57b8c7" stroke-width="2"/>
+<rect x="98" y="673" width="52" height="76" rx="10" fill="#183346" stroke="#57b8c7" stroke-width="4"/><rect x="107" y="711" width="34" height="28" rx="4" fill="#ae4e27"/><rect x="112" y="659" width="24" height="17" rx="4" fill="#dceff5"/><path d="M107 711h34" stroke="#ffb162" stroke-width="3"/>
+<text x="124" y="748" text-anchor="middle" font-size="10" fill="#677376">NO. 35</text>
+<rect x="202" y="624" width="190" height="23" rx="8" fill="#ebe2d1" stroke="#57b8c7"/><text x="210" y="640" font-size="12" font-weight="700" fill="#57b8c7">1826 · discovery published</text>
+<text x="202" y="665" font-size="20" font-weight="750" fill="#1f313d">Bromine · Br</text>
+<text x="202" y="681" font-size="9" font-weight="700" fill="#57b8c7">HALOGEN · GROUP 17 · PERIOD 4</text>
+<text x="202" y="698" font-size="10" font-weight="650" fill="#57b8c7">Antoine-Jérôme Balard · Montpellier, France · University of</text>
+<text x="202" y="715" font-size="10" fill="#43535b">Balard identified an orange-red liquid in brine residues. Carl Löwig</text>
+<text x="202" y="728" font-size="10" fill="#43535b">had independently produced a sample in 1825.</text>
+<path d="M798 835H768" stroke="#bb7a31" stroke-width="3"/><circle cx="768" cy="835" r="10" fill="#f5f1e6" stroke="#bb7a31" stroke-width="4"/>
+<rect x="798" y="765" width="684" height="140" rx="16" fill="#fdfaF2" stroke="#bb7a31" stroke-width="2"/>
+<circle cx="858" cy="849" r="35" fill="#ffbc53" stroke="#ffb162" stroke-width="3"/><line x1="888" y1="831" x2="933" y2="831" stroke="#64aeff" stroke-width="4"/><line x1="888" y1="842" x2="933" y2="842" stroke="#b891e8" stroke-width="4"/><line x1="888" y1="853" x2="933" y2="853" stroke="#5bdde8" stroke-width="4"/><line x1="888" y1="864" x2="933" y2="864" stroke="#81dba8" stroke-width="4"/><line x1="888" y1="875" x2="933" y2="875" stroke="#ffd263" stroke-width="4"/>
+<text x="868" y="897" text-anchor="middle" font-size="10" fill="#677376">NO. 2</text>
+<rect x="946" y="773" width="190" height="23" rx="8" fill="#ebe2d1" stroke="#bb7a31"/><text x="954" y="789" font-size="12" font-weight="700" fill="#bb7a31">1868 · solar detection</text>
+<text x="946" y="814" font-size="20" font-weight="750" fill="#1f313d">Helium · He</text>
+<text x="946" y="830" font-size="9" font-weight="700" fill="#bb7a31">NOBLE GAS · GROUP 18 · PERIOD 1</text>
+<text x="946" y="847" font-size="10" font-weight="650" fill="#bb7a31">Pierre Janssen (India) &amp; Norman Lockyer (England) · Independent</text>
+<text x="946" y="864" font-size="10" fill="#43535b">Janssen and Lockyer independently detected a new yellow line in the</text>
+<text x="946" y="877" font-size="10" fill="#43535b">Sun’s spectrum. Helium was isolated on Earth in 1895.</text>
+<path d="M738 984H768" stroke="#428b5d" stroke-width="3"/><circle cx="768" cy="984" r="10" fill="#f5f1e6" stroke="#428b5d" stroke-width="4"/>
+<rect x="54" y="914" width="684" height="140" rx="16" fill="#fdfaF2" stroke="#428b5d" stroke-width="2"/>
+<path d="M76 1040l12-48 26-30 18 26 23-25 30 77z" fill="#385358" stroke="#81dba8" stroke-width="3"/><path d="M114 962l8 76m29-51-15 51" stroke="#b8d9b9" stroke-width="3"/><circle cx="102" cy="1016" r="7" fill="#ffb162"/>
+<text x="124" y="1046" text-anchor="middle" font-size="10" fill="#677376">NO. 70</text>
+<rect x="202" y="922" width="190" height="23" rx="8" fill="#ebe2d1" stroke="#428b5d"/><text x="210" y="938" font-size="12" font-weight="700" fill="#428b5d">1878 · isolated as an oxide</text>
+<text x="202" y="963" font-size="20" font-weight="750" fill="#1f313d">Ytterbium · Yb</text>
+<text x="202" y="979" font-size="9" font-weight="700" fill="#428b5d">LANTHANOID · F-BLOCK · PERIOD 6</text>
+<text x="202" y="996" font-size="10" font-weight="650" fill="#428b5d">Jean Charles Galissard de Marignac · Geneva, Switzerland ·</text>
+<text x="202" y="1013" font-size="10" fill="#43535b">De Marignac separated a new oxide from erbium. The material still</text>
+<text x="202" y="1026" font-size="10" fill="#43535b">contained lutetium, which was separated in 1907.</text>
+<path d="M798 1133H768" stroke="#57b8c7" stroke-width="3"/><circle cx="768" cy="1133" r="10" fill="#f5f1e6" stroke="#57b8c7" stroke-width="4"/>
+<rect x="798" y="1063" width="684" height="140" rx="16" fill="#fdfaF2" stroke="#57b8c7" stroke-width="2"/>
+<path d="M831 1120v58l12 15h50l12-15v-58" fill="#17394a" stroke="#57b8c7" stroke-width="4"/><path d="M831 1155h74" stroke="#5a9aae" stroke-width="3"/><path d="M853 1103v69m30-69v69" stroke="#ffb162" stroke-width="4"/><circle cx="848" cy="1147" r="4" fill="#dceff5"/><circle cx="885" cy="1135" r="4" fill="#dceff5"/>
+<text x="868" y="1195" text-anchor="middle" font-size="10" fill="#677376">NO. 9</text>
+<rect x="946" y="1071" width="190" height="23" rx="8" fill="#ebe2d1" stroke="#57b8c7"/><text x="954" y="1087" font-size="12" font-weight="700" fill="#57b8c7">1886 · first isolation</text>
+<text x="946" y="1112" font-size="20" font-weight="750" fill="#1f313d">Fluorine · F</text>
+<text x="946" y="1128" font-size="9" font-weight="700" fill="#57b8c7">HALOGEN · GROUP 17 · PERIOD 2</text>
+<text x="946" y="1145" font-size="10" font-weight="650" fill="#57b8c7">Henri Moissan · Paris, France · École supérieure de pharmacie de</text>
+<text x="946" y="1162" font-size="10" fill="#43535b">Moissan isolated F₂ by electrolysing potassium bifluoride in liquid</text>
+<text x="946" y="1175" font-size="10" fill="#43535b">hydrogen fluoride after decades of dangerous failed attempts.</text>
+<path d="M738 1282H768" stroke="#57b8c7" stroke-width="3"/><circle cx="768" cy="1282" r="10" fill="#f5f1e6" stroke="#57b8c7" stroke-width="4"/>
+<rect x="54" y="1212" width="684" height="140" rx="16" fill="#fdfaF2" stroke="#57b8c7" stroke-width="2"/>
+<ellipse cx="124" cy="1300" rx="43" ry="19" fill="none" stroke="#57b8c7" stroke-width="3"/><ellipse cx="124" cy="1300" rx="20" ry="43" fill="none" stroke="#b891e8" stroke-width="3" transform="rotate(35 124 1300)"/><circle cx="124" cy="1300" r="10" fill="#ffb162"/><circle cx="164" cy="1290" r="5" fill="#dceff5"/>
+<text x="124" y="1344" text-anchor="middle" font-size="10" fill="#677376">NO. 85</text>
+<rect x="202" y="1220" width="190" height="23" rx="8" fill="#ebe2d1" stroke="#57b8c7"/><text x="210" y="1236" font-size="12" font-weight="700" fill="#57b8c7">1940 · first synthesis</text>
+<text x="202" y="1261" font-size="20" font-weight="750" fill="#1f313d">Astatine · At</text>
+<text x="202" y="1277" font-size="9" font-weight="700" fill="#57b8c7">HALOGEN · GROUP 17 · PERIOD 6</text>
+<text x="202" y="1294" font-size="10" font-weight="650" fill="#57b8c7">Dale R. Corson, Kenneth R. MacKenzie &amp; Emilio Segrè · Berkeley,</text>
+<text x="202" y="1311" font-size="10" fill="#43535b">Bombarding bismuth with alpha particles produced this extremely</text>
+<text x="202" y="1324" font-size="10" fill="#43535b">radioactive element. Only tiny quantities can be made.</text>
+<path d="M798 1431H768" stroke="#825da4" stroke-width="3"/><circle cx="768" cy="1431" r="10" fill="#f5f1e6" stroke="#825da4" stroke-width="4"/>
+<rect x="798" y="1361" width="684" height="140" rx="16" fill="#fdfaF2" stroke="#825da4" stroke-width="2"/>
+<ellipse cx="868" cy="1449" rx="48" ry="34" fill="none" stroke="#825da4" stroke-width="4"/><ellipse cx="868" cy="1449" rx="31" ry="21" fill="none" stroke="#3d6f89" stroke-width="3"/><path d="M819 1427a48 34 0 0 1 78 0" fill="none" stroke="#ffb162" stroke-width="5"/><circle cx="902" cy="1433" r="6" fill="#ffb162"/><circle cx="868" cy="1449" r="6" fill="#5bdde8"/>
+<text x="868" y="1493" text-anchor="middle" font-size="10" fill="#677376">NO. 101</text>
+<rect x="946" y="1369" width="190" height="23" rx="8" fill="#ebe2d1" stroke="#825da4"/><text x="954" y="1385" font-size="12" font-weight="700" fill="#825da4">1955 · first synthesis</text>
+<text x="946" y="1410" font-size="20" font-weight="750" fill="#1f313d">Mendelevium · Md</text>
+<text x="946" y="1426" font-size="9" font-weight="700" fill="#825da4">ACTINOID · F-BLOCK · PERIOD 7</text>
+<text x="946" y="1443" font-size="10" font-weight="650" fill="#825da4">Albert Ghiorso, Glenn Seaborg &amp; Berkeley team · Berkeley, USA ·</text>
+<text x="946" y="1460" font-size="10" fill="#43535b">Seventeen atoms were made by bombarding einsteinium-253 with alpha</text>
+<text x="946" y="1473" font-size="10" fill="#43535b">particles. Recoil separation enabled atom-at-a-time identification.</text>
+<path d="M738 1580H768" stroke="#825da4" stroke-width="3"/><circle cx="768" cy="1580" r="10" fill="#f5f1e6" stroke="#825da4" stroke-width="4"/>
+<rect x="54" y="1510" width="684" height="140" rx="16" fill="#fdfaF2" stroke="#825da4" stroke-width="2"/>
+<ellipse cx="124" cy="1598" rx="48" ry="34" fill="none" stroke="#825da4" stroke-width="4"/><ellipse cx="124" cy="1598" rx="31" ry="21" fill="none" stroke="#3d6f89" stroke-width="3"/><path d="M75 1576a48 34 0 0 1 78 0" fill="none" stroke="#ffb162" stroke-width="5"/><circle cx="158" cy="1582" r="6" fill="#ffb162"/><circle cx="124" cy="1598" r="6" fill="#5bdde8"/>
+<text x="124" y="1642" text-anchor="middle" font-size="10" fill="#677376">NO. 102</text>
+<rect x="202" y="1518" width="190" height="23" rx="8" fill="#ebe2d1" stroke="#825da4"/><text x="210" y="1534" font-size="12" font-weight="700" fill="#825da4">1965 · conclusive synthesis</text>
+<text x="202" y="1559" font-size="20" font-weight="750" fill="#1f313d">Nobelium · No</text>
+<text x="202" y="1575" font-size="9" font-weight="700" fill="#825da4">ACTINOID · F-BLOCK · PERIOD 7</text>
+<text x="202" y="1592" font-size="10" font-weight="650" fill="#825da4">Joint Institute for Nuclear Research team · Dubna, USSR · Joint</text>
+<text x="202" y="1609" font-size="10" fill="#43535b">After disputed 1957–58 claims, Dubna achieved a conclusive synthesis</text>
+<text x="202" y="1622" font-size="10" fill="#43535b">in 1965. The early Swedish claim was later shown to be incorrect.</text>
+<path d="M798 1729H768" stroke="#57b8c7" stroke-width="3"/><circle cx="768" cy="1729" r="10" fill="#f5f1e6" stroke="#57b8c7" stroke-width="4"/>
+<rect x="798" y="1659" width="684" height="140" rx="16" fill="#fdfaF2" stroke="#57b8c7" stroke-width="2"/>
+<g stroke-width="5" fill="none"><path d="M816 1717L863 1743" stroke="#5bdde8"/><path d="M816 1777L863 1751" stroke="#ffb162"/><path d="M920 1717L873 1743" stroke="#b891e8"/><path d="M920 1777L873 1751" stroke="#81dba8"/></g><circle cx="868" cy="1747" r="11" fill="#dceff5"/><g stroke="#ffb162" stroke-width="3"><path d="M868 1747l-28 -28"/><path d="M868 1747l28 -28"/><path d="M868 1747l-28 28"/><path d="M868 1747l28 28"/><path d="M868 1747l0 -43"/><path d="M868 1747l0 43"/></g>
+<text x="868" y="1791" text-anchor="middle" font-size="10" fill="#677376">NO. 117</text>
+<rect x="946" y="1667" width="190" height="23" rx="8" fill="#ebe2d1" stroke="#57b8c7"/><text x="954" y="1683" font-size="12" font-weight="700" fill="#57b8c7">2009–2010 · synthesis reported</text>
+<text x="946" y="1708" font-size="20" font-weight="750" fill="#1f313d">Tennessine · Ts</text>
+<text x="946" y="1724" font-size="9" font-weight="700" fill="#57b8c7">HALOGEN · GROUP 17 · PERIOD 7</text>
+<text x="946" y="1741" font-size="10" font-weight="650" fill="#57b8c7">JINR Dubna · Lawrence Livermore · Oak Ridge collaboration · JINR</text>
+<text x="946" y="1758" font-size="10" fill="#43535b">Calcium-48 ions were fused with berkelium-249. IUPAC confirmed the</text>
+<text x="946" y="1771" font-size="10" fill="#43535b">discovery in 2015 and approved the name in 2016.</text>
+<path d="M72 1900H1464" stroke="#b3a48c" stroke-width="2"/>
+<text x="72" y="1924" font-size="12" fill="#43535b">Discovery advanced from chemical isolation and solar spectroscopy to accelerator-made nuclei through international collaboration.</text>
+<text x="72" y="2009" font-size="10" fill="#677376">Sources: Royal Society of Chemistry element histories · ACS Transuranium Elements at Berkeley Lab · IUPAC discovery and naming reports.</text>
+</g></svg>

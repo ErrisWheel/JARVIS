@@ -1,0 +1,9 @@
+J.A.R.V.I.S. v0.1.29 — Conversation Restore Orientation Fix
+
+Requirements:
+- Existing JARVIS installation at F:\JARVIS
+- Windows PowerShell 5.1
+- No additional downloads or dependencies
+
+The installer uses the payload folder beside the script and does not parse JSON.
+Run Apply-JARVIS-v0.1.29.ps1 from any working directory after extracting the ZIP.

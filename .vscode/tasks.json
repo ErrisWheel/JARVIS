@@ -1,0 +1,29 @@
+{
+  "version": "2.0.0",
+  "tasks": [
+    {
+      "label": "JARVIS: Setup",
+      "type": "shell",
+      "command": "Set-ExecutionPolicy -Scope Process Bypass; .\\scripts\\Setup-JARVIS.ps1",
+      "problemMatcher": []
+    },
+    {
+      "label": "JARVIS: Start",
+      "type": "shell",
+      "command": ".\\scripts\\Start-JARVIS.ps1",
+      "problemMatcher": []
+    },
+    {
+      "label": "JARVIS: Backend tests",
+      "type": "shell",
+      "command": "$env:PYTHONPATH='.\\backend'; .\\environments\\python\\Scripts\\python.exe -m pytest .\\backend\\tests -q",
+      "problemMatcher": []
+    },
+    {
+      "label": "JARVIS: Stop",
+      "type": "shell",
+      "command": ".\\scripts\\Stop-JARVIS.ps1",
+      "problemMatcher": []
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+J.A.R.V.I.S. v0.1.42 — Image Routing Hotfix
+
+This is an incremental hotfix for an existing v0.1.41 installation. It also accepts reinstallation over v0.1.42. It does not replace models, environments, databases, imports, generated images, or node_modules.
+
+1. Stop both JARVIS PowerShell windows with Ctrl+C.
+2. Save this ZIP to F:\JARVIS\patches\JARVIS_v0.1.42_Image_Routing_Hotfix.zip.
+3. In Windows PowerShell 5.1, run:
+
+New-Item -ItemType Directory -Force 'F:\JARVIS\patches\v0.1.42' | Out-Null
+Expand-Archive -LiteralPath 'F:\JARVIS\patches\JARVIS_v0.1.42_Image_Routing_Hotfix.zip' -DestinationPath 'F:\JARVIS\patches\v0.1.42' -Force
+Set-ExecutionPolicy -Scope Process -ExecutionPolicy Bypass -Force
+& 'F:\JARVIS\patches\v0.1.42\Apply-JARVIS-v0.1.42.ps1'
+
+4. Verify the frontend (PowerShell working directory F:\JARVIS\frontend):
+
+npm run build
+npm run test:image-intent
+npm run test:layout
+
+5. Restart JARVIS from F:\JARVIS with .\scripts\Start-JARVIS.ps1.
+
+The installer verifies the payload hashes and installed file hashes, rejects junction/symlink destinations, backs up replaced files under F:\JARVIS\backups, and attempts rollback if verification fails. It does not run npm or pip and does not access the internet.

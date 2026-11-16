@@ -1,0 +1,24 @@
+J.A.R.V.I.S. v0.1.31 INTEGRATED UPGRADE
+
+1. Stop both running JARVIS terminal windows with Ctrl+C.
+2. Save this ZIP as F:\JARVIS\patches\JARVIS_v0.1.31_Integrated_Upgrade.zip
+3. Run in Windows PowerShell 5.1 (any working directory):
+
+New-Item -ItemType Directory -Force 'F:\JARVIS\patches\v0.1.31' | Out-Null
+Expand-Archive -LiteralPath 'F:\JARVIS\patches\JARVIS_v0.1.31_Integrated_Upgrade.zip' -DestinationPath 'F:\JARVIS\patches\v0.1.31' -Force
+Set-ExecutionPolicy -Scope Process -ExecutionPolicy Bypass -Force
+& 'F:\JARVIS\patches\v0.1.31\Apply-JARVIS-v0.1.31.ps1'
+
+The installer validates MANIFEST.sha256, backs up overwritten files under F:\JARVIS\backups, verifies installed hashes, and attempts rollback on errors. It does not download packages or replace models, databases, environments, node_modules, or imports.
+
+4. On your PC, run frontend build:
+   Set-Location 'F:\JARVIS\frontend'
+   npm run build
+
+5. Backend regression suite:
+   Set-Location 'F:\JARVIS\backend'
+   & 'F:\JARVIS\environments\python\Scripts\python.exe' -m pytest tests -q
+
+6. Start: Set-Location 'F:\JARVIS'; .\scripts\Start-JARVIS.ps1
+
+See payload/docs/INSTALL-v0.1.31.md and payload/docs/IMPLEMENTATION-REPORT-v0.1.31.md for details and limitations.
